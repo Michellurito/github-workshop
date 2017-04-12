@@ -1,4 +1,9 @@
-# github-workshop
+# My Website Template
+
+The website is located at: 
+https://michellewong793.github.io/github-workshop/
+
+
 Files for Smithies in CS Github Workshop.
 
 Slides: https://docs.google.com/a/smith.edu/presentation/d/196x31b909YuulY1XrQ4tZsEgDlxUareehYBqR6FBYhM/edit?usp=sharing
